@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: dinkes-dev.subang.go.id/artikel/slot777/sitemap.xml
